@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Labibuddin Alfin Afifi
 
-<!--
-**labibuddin/labibuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in Java & Golang microservices, currently building the backend for a large-scale e-commerce platform. I design APIs, own service architecture end-to-end, and I'm expanding into RAG/LLM systems on the side.
 
-Here are some ideas to get you started:
+- ⚙️ Building & maintaining microservices in **Java, Golang** for high-traffic e-commerce (Alfagift/Alfamart)
+- 🧩 Own API design, service architecture, and data layer (PostgreSQL, MongoDB, Redis, SOLR)
+- 🤖 Designing self-hosted **RAG/LLM pipelines** (Ollama, ChromaDB) end-to-end — no cloud dependency
+- 🏗️ Ship full-stack systems solo: containerized, CI/CD, deployed on my own infra
+- 📡 Async messaging patterns (Pub/Sub) for reliable inter-service communication
+- 💬 Open to talk backend architecture, RAG pipelines, or self-hosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experience
+
+**Backend Engineer** — Alfagift (Alfamart), Global Loyalty Indonesia
+Own backend services powering a large-scale e-commerce platform - RESTful API design, microservices architecture, PostgreSQL/MongoDB/Redis/SOLR, Pub/Sub-based async processing.
+
+**Software Developer** — Freelance
+Architected and shipped full-stack systems independently
+
+---
+
+🔗 [Portfolio](https://mujakarsa.my.id/) | [LinkedIn](https://linkedin.com/in/alfinafifi) | 📧 labibuddinalfin@gmail.com
