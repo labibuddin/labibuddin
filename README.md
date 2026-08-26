@@ -21,4 +21,4 @@ Architected and shipped full-stack systems independently
 
 ---
 
-🔗 [Portfolio](https://mujakarsa.my.id/) | [LinkedIn](https://linkedin.com/in/alfinafifi) | 📧 labibuddinalfin@gmail.com
+🔗 [Services](https://mujakarsa.my.id/) | [LinkedIn](https://linkedin.com/in/alfinafifi) | 📧 labibuddinalfin@gmail.com
