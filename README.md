@@ -13,10 +13,10 @@ Backend Engineer specializing in Java & Golang microservices, currently building
 
 ### 💼 Experience
 
-**Backend Engineer** — Alfagift (Alfamart), Global Loyalty Indonesia
+**Backend Engineer** - Alfagift (Alfamart), Global Loyalty Indonesia
 Own backend services powering a large-scale e-commerce platform - RESTful API design, microservices architecture, PostgreSQL/MongoDB/Redis/SOLR, Pub/Sub-based async processing.
 
-**Software Developer** — Freelance
+**Software Developer** - Freelance
 Architected and shipped full-stack systems independently
 
 ---
